@@ -1,0 +1,51 @@
+html, body {
+	background-color: #17171a;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	
+}
+
+h2 {
+	color: #c9c9cb;
+}
+
+p {
+	float: right;
+}
+
+.container {
+	background-color: #17171a;
+	width: 50%;
+	margin: 20px auto;
+	/*border: 1px solid #eee;*/
+}
+.titles {
+	/*display: flex;*/
+}
+
+.reply, p, .nik {
+	color: #797983;
+}
+
+.comm {
+	color: #afafb2
+}
+
+.popular, .new, .old, .reply, .btn {
+	background-color: #17171a;
+	border: none;
+	color: #797983;
+}
+
+.buttonCountPlus, .buttonCountMinus {
+	margin-right: 10px;
+}
+
+.form-control {
+	background-color: #17171a;
+}
+
+
